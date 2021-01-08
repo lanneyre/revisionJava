@@ -6,8 +6,8 @@ public class Calculatrice {
 			public void run(){
 				// Creation de ma fenetre
 				CalculatriceFenetre fenetre = new CalculatriceFenetre();
-				fenetre.setVisible(false);
-				println("test truc");
+				fenetre.setVisible(true);
+				
 			}
 		});
 	}
